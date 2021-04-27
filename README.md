@@ -12,10 +12,10 @@ Clone the reposity in your folder and execute the makefile.
 USAGE:
 	./generator [WIDTH] [HEIGHT] (perfect)
 
-DESCRIPTION:
-	WIDTH: strictly over 1
-	HEIGHT: strictly over 1
-	perfect: (optionnal) make a perfect maze
+DESCRIPTION:  
+	WIDTH: strictly over 1  
+	HEIGHT: strictly over 1  
+	perfect: (optionnal) make a perfect maze  
 
 
 ## SOLVER
