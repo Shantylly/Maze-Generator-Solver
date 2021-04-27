@@ -3,7 +3,11 @@ A generator of maze with a solver.
 
 The goal of this project is to generate mazes, solve them, and print the solution.
 
-GENERATOR
+#INSTALLATION
+
+Clone the reposity in your folder and execute the makefile.
+
+#GENERATOR
 
 USAGE:
 	./generator [WIDTH] [HEIGHT] (perfect)
@@ -14,7 +18,7 @@ DESCRIPTION:
 	perfect: (optionnal) make a perfect maze
 
 
-SOLVER
+#SOLVER
 
 
 USAGE:
